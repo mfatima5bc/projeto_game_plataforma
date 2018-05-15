@@ -166,7 +166,7 @@ if(global.matar = true){
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_lobo</object>
+            <object>obj_aranha</object>
           </argument>
           <argument>
             <kind>0</kind>
